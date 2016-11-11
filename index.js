@@ -1,4 +1,4 @@
-function typeSafe( func, argTypes, returnType) {
+function typeSafe( func, argTypes, returnType ) {
 
 }
 
