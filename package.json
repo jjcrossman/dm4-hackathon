@@ -1,0 +1,17 @@
+{
+  "name": "typesafe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "test:coverage": "nyc ava"
+  },
+  "keywords": [],
+  "author": "Ryan Walsh <ryan@thehatrack.net> (https://twitter.com/_rtwalsh)",
+  "license": "ISC",
+  "dependencies": {
+    "ava": "^0.16.0",
+    "nyc": "^8.4.0"
+  }
+}
